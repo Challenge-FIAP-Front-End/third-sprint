@@ -14,13 +14,17 @@ Essas funcionalidades visam melhorar a experiência do usuário, aumentar a fide
 
 ### Sobre as telas
 
-- **Início**: A tela de início do aplicativo PortoQuest apresenta um menu de navegação na parte superior, com as seguintes opções: Início, Meus pontos, Chatbot, Perfil, FAQ, e um botão destacado para Baixar Aplicativo. No canto superior direito, há uma mensagem de boas-vindas ao usuário, seguido de um ícone de perfil.
+- ### Inicio
+
+Início: A tela de início do aplicativo PortoQuest apresenta um menu de navegação na parte superior, com as seguintes opções: Início, Meus pontos, Chatbot, Perfil, FAQ, e um botão destacado para Baixar Aplicativo. No canto superior direito, há uma mensagem de boas-vindas ao usuário, seguido de um ícone de perfil.
 
 Abaixo do menu, há um título em destaque: "Confira nossos parceiros", seguido por um carrossel de imagens que exibe um ambiente de oficina, reforçando a proposta do aplicativo. Abaixo do carrossel, há uma breve descrição do propósito da PortoQuest, que inclui o uso da gamificação para recompensar a lealdade dos usuários, com foco em pontos, manutenções gratuitas, e uma plataforma de promoção para oficinas parceiras.
 
 Essa tela inicial parece focada em apresentar as principais funcionalidades do aplicativo e destacar a importância das parcerias com as oficinas.
 
-- **Meus Pontos**: : A tela "Meus Pontos" exibe o sistema de recompensas do usuário, destacando quantos pontos foram acumulados. Na parte superior, há um menu de navegação semelhante à tela anterior, com as opções Início, Meus pontos, Chatbot, Perfil, FAQ, e o botão de Baixar Aplicativo. No canto direito, a tela exibe uma mensagem de boas-vindas ao usuário, "Seja bem-vindo, Leonardo."
+- ### Meus Pontos
+
+Meus Pontos: : A tela "Meus Pontos" exibe o sistema de recompensas do usuário, destacando quantos pontos foram acumulados. Na parte superior, há um menu de navegação semelhante à tela anterior, com as opções Início, Meus pontos, Chatbot, Perfil, FAQ, e o botão de Baixar Aplicativo. No canto direito, a tela exibe uma mensagem de boas-vindas ao usuário, "Seja bem-vindo, Leonardo."
 
 Logo abaixo, há a informação de quantos pontos o usuário possui: "Meus pontos: 1 ★". À direita, a data de vigência das recompensas é apresentada (de 01/01/2024 a 01/01/2025).
 
