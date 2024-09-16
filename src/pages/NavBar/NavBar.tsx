@@ -25,6 +25,7 @@ function NavBar() {
                     <ActiveLink isActive={isActive('/ChatBot')} linkTitle={'Chatbot'} linkUrl='/ChatBot' />
                     <ActiveLink isActive={isActive('/Perfil')} linkTitle={'Perfil'} linkUrl='/Perfil' />
                     <ActiveLink isActive={isActive('/Faq')} linkTitle={'FAQ'} linkUrl='/Faq' />
+                    <ActiveLink isActive={isActive('/Integrantes')} linkTitle={'Integrantes'} linkUrl='/Integrantes' />
                 </ul>
             </div>
 

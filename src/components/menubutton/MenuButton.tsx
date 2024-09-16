@@ -55,6 +55,7 @@ function MenuButton() {
           <ActiveLink isActive={isActive('/ChatBot')} linkTitle="Chatbot" linkUrl="/ChatBot" />
           <ActiveLink isActive={isActive('/Perfil')} linkTitle="Perfil" linkUrl="/Perfil" />
           <ActiveLink isActive={isActive('/Faq')} linkTitle="FAQ" linkUrl="/Faq" />
+          <ActiveLink isActive={isActive('/Integrantes')} linkTitle={'Integrantes'} linkUrl='/Integrantes' />
           <li> 
             <button className='bg-[#0046BF] rounded-full w-3/4 h-12 text-nowrap text-white'>
               Baixar Aplicativo
