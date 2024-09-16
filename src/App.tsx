@@ -8,6 +8,7 @@ import Resgates from "./pages/Resgates/Resgates"
 import ChatBot from "./pages/ChatBot/ChatBot"
 import Perfil from "./pages/Perfil/Perfil"
 import Historico from "./pages/Historico/historico"
+import Faq from "./pages/Faq/Faq"
 
 function App() {
 
@@ -23,6 +24,7 @@ function App() {
         <Route path="/ChatBot" element={<ChatBot />} />
         <Route path="/Perfil" element={<Perfil />} />
         <Route path="/Historico" element={<Historico />} />
+        <Route path="/Faq" element={<Faq />} />
       </Routes>
     </BrowserRouter>
   )
