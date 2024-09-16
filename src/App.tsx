@@ -5,6 +5,7 @@ import Home from "./pages/Home/Home"
 import Cadastro from "./pages/Cadastro/Cadastro"
 import Pontos from "./pages/Pontos/Pontos"
 import Resgates from "./pages/Resgates/Resgates"
+import ChatBot from "./pages/ChatBot/ChatBot"
 
 function App() {
 
@@ -17,6 +18,7 @@ function App() {
         <Route path="/Cadastro" element={<Cadastro />} />
         <Route path="/Pontos" element={<Pontos />} />
         <Route path="/Resgates" element={<Resgates />} />
+        <Route path="/ChatBot" element={<ChatBot />} />
       </Routes>
     </BrowserRouter>
   )
