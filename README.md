@@ -49,3 +49,7 @@ A tela Meus Resgates no aplicativo PortoQuest exibe o histórico de resgates do 
 - ### FAQ
 
 A tela de FAQ no aplicativo PortoQuest apresenta uma seção de perguntas frequentes para ajudar os usuários a entender o funcionamento do aplicativo. O título "Como funciona a Porto Quest?" está em destaque no topo da página. Abaixo, as perguntas e respostas estão organizadas em um formato de accordion, onde cada item pode ser expandido ou recolhido clicando no ícone à direita. As perguntas são fictícias e os textos de exemplo em Lorem Ipsum indicam onde as informações reais serão colocadas. O layout mantém o design limpo e consistente com o restante do aplicativo, e o menu de navegação está presente no topo, facilitando a movimentação entre as seções do app.
+
+- ### ChatBot
+
+A tela ChatBot no aplicativo PortoQuest apresenta uma interface de conversação entre o usuário e o chatbot. As mensagens enviadas e recebidas são exibidas em balões, organizados em um layout que simula uma conversa, com as mensagens do usuário à esquerda e as respostas do chatbot à direita. O fundo azul destaca a área de chat, e o texto fictício em Lorem Ipsum serve como um placeholder para o conteúdo real das conversas. Na parte inferior da tela, há um campo com a mensagem "Pergunte ao nosso chatbot:", indicando onde o usuário pode inserir suas perguntas. O menu de navegação permanece no topo para facilitar o acesso a outras funcionalidades.
