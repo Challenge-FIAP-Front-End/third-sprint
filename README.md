@@ -45,3 +45,7 @@ A tela de Resgate no aplicativo PortoQuest exibe o QR Code necessário para o us
 - ### Meus Resgates
 
 A tela Meus Resgates no aplicativo PortoQuest exibe o histórico de resgates do usuário em uma lista organizada. Cada resgate inclui o nome da recompensa (como troca de pastilha de freio, troca de óleo, e revisão gratuita), a data em que foi resgatado, e a quantidade de estrelas utilizada. O layout é simples, com uma área em destaque centralizada contendo as informações dos resgates. O menu de navegação permanece visível no topo da página, junto com a opção de sair do perfil do usuário.
+
+- ### FAQ
+
+A tela de FAQ no aplicativo PortoQuest apresenta uma seção de perguntas frequentes para ajudar os usuários a entender o funcionamento do aplicativo. O título "Como funciona a Porto Quest?" está em destaque no topo da página. Abaixo, as perguntas e respostas estão organizadas em um formato de accordion, onde cada item pode ser expandido ou recolhido clicando no ícone à direita. As perguntas são fictícias e os textos de exemplo em Lorem Ipsum indicam onde as informações reais serão colocadas. O layout mantém o design limpo e consistente com o restante do aplicativo, e o menu de navegação está presente no topo, facilitando a movimentação entre as seções do app.
