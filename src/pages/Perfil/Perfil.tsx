@@ -17,10 +17,10 @@ function Perfil() {
         <h1 className='text-2xl font-bold'>Leonardo Salazar</h1>
         <h2 className='text-xl'>Total de pontos: 1</h2>
         <div className='mt-4 w-full bg-white text-black p-4 rounded-full'>
-          CPF...
+          123.456.789-10
         </div>
         <div className='w-full bg-white text-black p-4 rounded-full'>
-          E-Mail...
+          fiap@gmail.com
         </div>
         <button className='mt-4 w-full rounded-full bg-[#0046BF] text-lg p-2'>
           Trocar Senha
