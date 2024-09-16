@@ -41,3 +41,7 @@ Abaixo da linha do tempo, há um botão destacado em azul com o texto "Resgatar"
 - ### Resgate da recompensa
 
 A tela de Resgate no aplicativo PortoQuest exibe o QR Code necessário para o usuário resgatar a recompensa. No topo, o menu de navegação permanece, junto com a mensagem de boas-vindas ao usuário. O título da tela indica o resgate de uma "Revisão Gratuita", e abaixo, o QR Code ocupa o centro da tela. O usuário é instruído a apresentar o código na oficina mecânica para resgatar o benefício. A interface é simples e focada, garantindo fácil acesso à funcionalidade de resgate.
+
+- ### Meus Resgates
+
+A tela Meus Resgates no aplicativo PortoQuest exibe o histórico de resgates do usuário em uma lista organizada. Cada resgate inclui o nome da recompensa (como troca de pastilha de freio, troca de óleo, e revisão gratuita), a data em que foi resgatado, e a quantidade de estrelas utilizada. O layout é simples, com uma área em destaque centralizada contendo as informações dos resgates. O menu de navegação permanece visível no topo da página, junto com a opção de sair do perfil do usuário.
