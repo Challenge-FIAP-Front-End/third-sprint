@@ -37,3 +37,7 @@ Limpeza completa do carro.
 Troca dos 4 pneus.
 Troca de Óleo. Cada etapa futura está representada por um círculo azul com estrelas, indicando os pontos necessários para atingir essas recompensas.
 Abaixo da linha do tempo, há um botão destacado em azul com o texto "Resgatar", permitindo que o usuário troque os pontos acumulados por recompensas disponíveis.
+
+- ### Resgate da recompensa
+
+A tela de Resgate no aplicativo PortoQuest exibe o QR Code necessário para o usuário resgatar a recompensa. No topo, o menu de navegação permanece, junto com a mensagem de boas-vindas ao usuário. O título da tela indica o resgate de uma "Revisão Gratuita", e abaixo, o QR Code ocupa o centro da tela. O usuário é instruído a apresentar o código na oficina mecânica para resgatar o benefício. A interface é simples e focada, garantindo fácil acesso à funcionalidade de resgate.
