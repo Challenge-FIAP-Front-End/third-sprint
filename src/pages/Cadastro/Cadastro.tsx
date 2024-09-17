@@ -76,7 +76,7 @@ function Cadastro() {
 
   return (
     <main className='w-full flex items-center pt-12 flex-col gap-12'>
-      <div className='bg-blue-400 w-[500px] p-12 text-white mx-auto rounded-3xl flex flex-col items-center gap-16'>
+      <div className='bg-[#00A0FB] w-[500px] p-12 text-white mx-auto rounded-3xl flex flex-col items-center gap-16'>
         <h1 className='text-2xl font-bold'>Cadastrar-se</h1>
         <form className='w-full gap-6 flex flex-col' onSubmit={cadastrar}>
           <fieldset>

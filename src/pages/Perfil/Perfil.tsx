@@ -6,9 +6,11 @@ function Perfil() {
     <>
       <aside className='w-full flex justify-end h-16 items-center gap-4 px-4'>
         <h1 className='text-xl'>Sair</h1>
+        <Link to ="/Login">
         <figure>
           <IoArrowForwardCircleOutline color="red" size={'2rem'} />
         </figure>
+        </Link>
       </aside>
       <main className='bg-[#00A0FB] w-[500px] text-white mx-auto rounded-3xl py-11 px-11 flex flex-col items-center gap-6'>
         <figure>
