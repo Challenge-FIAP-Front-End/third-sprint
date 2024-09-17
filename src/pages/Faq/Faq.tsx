@@ -20,6 +20,18 @@ const faqPerguntasRespostas = [
   {
     pergunta: "Como funcionam as notificações personalizadas no app?",
     resposta: "As notificações personalizadas são baseadas nos seus agendamentos de serviços, resgates de prêmios e visitas ao aplicativo. Quanto mais você utilizar o app, mais eficazes serão as nossas notificações, ajudando você a lembrar de visitas e manutenções necessárias e personalizando cada vez mais a sua experiência conosco!"
+  },
+  {
+    pergunta: "Como recebo avisos personalizados sobre manutenções?",
+    resposta: "As notificações personalizadas são baseadas nos seus agendamentos de serviços, resgates de prêmios e visitas ao aplicativo. Quanto mais você utilizar o app, mais eficazes serão as nossas notificações, ajudando você a lembrar de visitas e manutenções necessárias e personalizando cada vez mais a sua experiência conosco!"
+  },
+  {
+    pergunta: "Quais benefícios eu recebo por usar o app várias vezes?",
+    resposta: "Quanto mais você utilizar os serviços das oficinas parceiras e visitar regularmente, mais pontos você acumula, o que significa que você poderá resgatar mais prêmios. Além disso, nossa IA analisa seu comportamento no aplicativo para enviar notificações personalizadas, ajudando a prever e lembrar sobre manutenções ou trocas necessárias no seu veículo."
+  },
+  {
+    pergunta: "Tem como agendar uma manutenção pelo app?",
+    resposta: "Atualmente, nosso aplicativo não oferece a opção de agendamento diretamente. No entanto, estamos trabalhando para adicionar essa funcionalidade em breve. Fique atento às nossas redes sociais para atualizações e novidades sobre quando essa funcionalidade estará disponível para você!"
   }
 ];
 
